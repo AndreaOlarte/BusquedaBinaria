@@ -1,0 +1,9 @@
+c:\users\andy_\documents\visual studio 2015\Projects\ED - Programa 23.BusquedaBinaria\ED - Programa 23.BusquedaBinaria\bin\Debug\ED - Programa 23.BusquedaBinaria.exe.config
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 23.BusquedaBinaria\ED - Programa 23.BusquedaBinaria\bin\Debug\ED - Programa 23.BusquedaBinaria.exe
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 23.BusquedaBinaria\ED - Programa 23.BusquedaBinaria\bin\Debug\ED - Programa 23.BusquedaBinaria.pdb
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 23.BusquedaBinaria\ED - Programa 23.BusquedaBinaria\obj\Debug\ED - Programa 23.BusquedaBinaria.csprojResolveAssemblyReference.cache
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 23.BusquedaBinaria\ED - Programa 23.BusquedaBinaria\obj\Debug\ED___Programa_23.BusquedaBinaria.Form1.resources
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 23.BusquedaBinaria\ED - Programa 23.BusquedaBinaria\obj\Debug\ED___Programa_23.BusquedaBinaria.Properties.Resources.resources
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 23.BusquedaBinaria\ED - Programa 23.BusquedaBinaria\obj\Debug\ED - Programa 23.BusquedaBinaria.csproj.GenerateResource.Cache
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 23.BusquedaBinaria\ED - Programa 23.BusquedaBinaria\obj\Debug\ED - Programa 23.BusquedaBinaria.exe
+C:\Users\andy_\documents\visual studio 2015\Projects\ED - Programa 23.BusquedaBinaria\ED - Programa 23.BusquedaBinaria\obj\Debug\ED - Programa 23.BusquedaBinaria.pdb
